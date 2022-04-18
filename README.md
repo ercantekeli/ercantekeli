@@ -1,3 +1,5 @@
+![Simple Technology LinkedIn Banner](https://user-images.githubusercontent.com/97911063/163883716-e1dad184-b703-4df4-b0ed-e7d1c087f207.png)
+
 <h1 align="center">Hi 👋, I'm Ercan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
